@@ -1,1 +1,2 @@
 This is the start of the TED collaboration
+Today we discussed using Github for collaboration - 17/03
