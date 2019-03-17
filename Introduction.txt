@@ -1,3 +1,5 @@
 DAY 1:
 This is the start of the TED collaboration
 Today we discussed using Github for collaboration - 17/03
+DAY 2:
+KS4 will have a seperate branch
